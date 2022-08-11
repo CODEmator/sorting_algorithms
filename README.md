@@ -160,18 +160,11 @@ Function Prototype:
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Philip Nnaa</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/CODEmator">Github</a></li>
+    <li><a href="https://www.twitter.com/codematorng">Twitter</a></li>
+    <li><a href="mailto:codematorng@gmail.com">e-mail</a></li>
     </ul>
 </details>
-<details>
-    <summary>Mohamed Ibrahima Traore</summary>
-    <ul
-    <li><a href="https://www.github.com/codivily">Github</a></li>
-    <li><a href="https://www.twitter.com/codivily">Twitter</a></li>
-    <li><a href="mailto:codivily@gmail.com">e-mail</a></li>
-    </ul>
-</details>
+
